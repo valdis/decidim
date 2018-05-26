@@ -26,6 +26,8 @@
 - **decidim-core**: Fix hero content block migration [\#4061](https://github.com/decidim/decidim/pull/4061)
 - **decidim-core**: Fix default content block creation migration [\#4084](https://github.com/decidim/decidim/pull/4084)
 - **decidim-generators**: Bootsnap warnings when generating test applications [\#4098](https://github.com/decidim/decidim/pull/4098)
+- **decidim-core**: Date field form inputs failing to highlight errors on some edge cases. [\#3514](https://github.com/decidim/decidim/pull/3514)
+- **decidim-core**: Datetime field form inputs failing to highlight errors on some edge cases. [\#3514](https://github.com/decidim/decidim/pull/3514)
 
 **Removed**:
 
