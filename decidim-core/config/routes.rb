@@ -109,6 +109,10 @@ Decidim::Core::Engine.routes.draw do
     collection do
       post :create
     end
+    member do
+      get :review
+      patch :accept
+    end
   end
 
   namespace :gamification do
